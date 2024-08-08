@@ -1,2 +1,5 @@
+
+
 if __name__ == "__main__":
-    print("")
+    a = input("valor a:")
+    print(f"valor ingresado {a=}")
